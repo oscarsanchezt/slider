@@ -7,3 +7,5 @@
 <div align='center'>
 <b><p>Previsualizacion de como es</p></b>
 </div>
+<br>
+<img src="https://i.imgur.com/222KNXq.png">
